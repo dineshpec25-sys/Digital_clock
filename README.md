@@ -1,4 +1,4 @@
-# ⏰ 12-Hour Digital Clock Using Discrete Logic ICs
+# ⏰ 24-Hour Digital Clock Using Discrete Logic ICs
 
 A fully hardware-based **24-hour digital clock** built using **discrete CMOS logic ICs**. This project is being developed during a **2-Day Hackathon** and showcases digital clock design without using any microcontroller or programmable device.
 
@@ -14,7 +14,7 @@ The entire clock is constructed using discrete electronic components, making it 
 
 ## 🎯 Objectives
 
-- Design a 12-hour digital clock using only discrete ICs.
+- Design a 24-hour digital clock using only discrete ICs.
 - Generate clock pulses using the NE555 Timer.
 - Count time using CD4026 decade counter ICs.
 - Display time on seven-segment displays.
@@ -24,7 +24,7 @@ The entire clock is constructed using discrete electronic components, making it 
 
 ## ✨ Features
 
-- 12-Hour Time Format
+- 24-Hour Time Format
 - Hardware-Based Clock
 - No Microcontroller
 - No Programming Required
