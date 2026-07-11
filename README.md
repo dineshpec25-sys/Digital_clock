@@ -1,4 +1,4 @@
-# TEAM NAME: CIRCUIT BREAKERS
+#     TEAM NAME: CIRCUIT BREAKERS
 # ⏰ 24-Hour Digital Clock Using Discrete Logic ICs
 
 A fully hardware-based **24-hour digital clock** built using **discrete CMOS logic ICs**. This project is being developed during a **2-Day Hackathon** and showcases digital clock design without using any microcontroller or programmable device.
